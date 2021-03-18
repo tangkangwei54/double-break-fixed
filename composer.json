@@ -2,6 +2,7 @@
   "name": "double-break-fixed/spapi-php",
   "description": "Amazon Selling Partner API Client With fixed",
   "type": "library",
+  "license": "MIT",
   "authors": [
      {
          "name": "Kangvins",
