@@ -39,6 +39,8 @@ class Feeder
         // resource or string ? make it to a string
         if ($fileResourceType == 'resource') {
             $file = stream_get_contents($feedContentFilePath);
+        } else if ($fileResourceType == 'string') {
+            $file = $feedContentFilePath;
         } else {
             $file = file_get_contents($feedContentFilePath);
         }
