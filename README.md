@@ -1,7 +1,7 @@
 # SPAPI
 spapi-php is a http client for Amazon's Selling Partner API
 
-origin Author: Lyubomir Slavilov
+Original author: Lyubomir Slavilov
 
 ## Before you start
 Spapi is released as Composer package `double-break/spapi-php` with **no warranties or promises**.
