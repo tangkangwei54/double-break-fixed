@@ -1,4 +1,4 @@
-Original url: https://github.com/double-break/spapi-php
+original project url: https://github.com/double-break/spapi-php
 
 
-Original author: Lyubomir Slavilov
+original project author: Lyubomir Slavilov
